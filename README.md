@@ -8,3 +8,5 @@ Then, I'm using four models:
 -   Decision Tree
 -   Support Vector Machine
 -   Logistic Regression
+
+_This project has been done as a final assignment for a course delivered by IBM - Machine Learning with Python._
